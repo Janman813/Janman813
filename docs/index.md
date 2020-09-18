@@ -4,5 +4,5 @@
 
 ### Somethings about me.
 1. I have two aniamls.
-1. I love the Outdoors and spending time with famiy
+1. I love the Outdoors and spending time with famiy.
 1. I am very shy at first.
