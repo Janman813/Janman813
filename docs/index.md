@@ -9,4 +9,4 @@
 
 ## My Life...
 [portfolio](images/portfolio.md)
-![Shepherd ](Christmas_Shep.jpg.JPG)
+![Shepherd ](images/Christmas_shep.jpg.JPG)
