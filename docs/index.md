@@ -9,4 +9,4 @@
 
 ## My Life...
 [portfolio](images/portfolio.md)
-![Shepherd ](images/Christmas_shep.jpg.JPG)
+<img src="images/Christmas_shep.jpg.JPG" alt="shepherd" width="200"/>
