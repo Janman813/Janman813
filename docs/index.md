@@ -8,5 +8,6 @@
 1. I am very shy at first.
 
 ## My Life...
-[portfolio](images/portfolio.md)
+I am creating this website for my class but this website will be used as a blog. I will talk a little bit about myself and share what I have created/worked on. I hope to someday use this site in hopes of a demonstration of my work. If you have any questions please contact my Instagram Art99_23.
 <img src="images/Christmas_shep.jpg.JPG" alt="shepherd" width="200"/>
+[portfolio](images/portfolio.md)
