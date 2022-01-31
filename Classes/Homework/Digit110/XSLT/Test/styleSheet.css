@@ -1,0 +1,23 @@
+
+backgroung{
+    color:maroon;
+}
+
+span.event {
+    color:blue;
+}
+span.item {
+    color:aqua;
+}
+span.char {
+    color:navy;
+}
+span.soCalled {
+    color:green;
+}
+span.faction {
+    color:red;
+}
+span.place {
+    color:black;
+    }

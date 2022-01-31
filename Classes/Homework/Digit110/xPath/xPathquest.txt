@@ -1,0 +1,33 @@
+
+This Site Index file organizes lists of proper names of various kinds. Take a look at the outline view of the document before you begin to familiarize yourself with the structure of this file, and then work with XPath to answer the following:
+	What XPath expression helps you to see all of the <div> elements in the document? (How many are there?)
+		//attribute()=25854
+	Lists of persons are coded in <listPerson> elements. What XPath expression shows you all the <listPerson> elements in the document?
+		//element(listPerson)=6 items
+	What XPath expression shows you which <div> elements contain child <listPerson> elements? (Use a predicate filter with square brackets [ ] to help you.) How many <div> elements contain <listPerson> elements inside?
+		//element(div)[listPerson]=4 items
+	How can you change your XPath expression to return <div> elements that contain <listPlace> elements inside?
+		//element(div)[listPlace]=1 item
+	Now, write an XPath to return all the <place> children of the <listPlace> elements. How many are there?
+		//element(listPlace)/child::place=204
+	What is the difference between these two XPath expressions?
+		The one has a child element and the other has a div element that is looking for any div element with listPlace
+	When exploring a document with XPath, sometimes we are trying to find out what elements have a certain value or property. If we want to return an element in a certain position without knowing its name, we can just designate any element with the element() or *. So, for example, //* returns all 32,711 elements in this document. (Try it and see.) Using this information, answer the following:
+	What XPath shows you all of the immediate children (whatever they are) of <div> elements?
+		//element()/child::div=9 items
+	There is a list of animals in this document coded in <list sortKey="animals">. How can you return all the child elements of this particular list to each of the animals? (How many are there?)
+
+	Write a single XPath expression that returns all the different elements that hold a @sortKey attribute. (Our answer uses a predicate filter [ ].)
+		//*[@sortKey]=19 items
+This set of questions explores the <person> elements in the file.
+	First, write an XPath expression that returns all the <person> elements. How many are there?
+		//element(person)=1223
+	Are all of the <person> elements coded with an @sex attribute? Use a predicate filter with [ ] to find out and record your expression here. How many results do you see?
+		//element(person)/@sex=1107
+	Apply a count() function to your previous expressions to return just a number in the XPath window.
+		//person[@sex]-> count()- 1 item
+	XPath can work as a calculator: It can handle simple arithmetic operations like add, subtract, multiply (with an *), and divide (with the word div). Try writing an expression that returns the count() of person elements coded with @sex attributes divided by the count() of all the person elements. Multiply that by 100 to see a percentage: About what percentage of person elements are coded with @sex attributes in this document?
+		//person[@sex]=> count() div //person => count()
+	Write an XPath expression to find the number of <person> elements coded as female with @sex="f".
+
+	Use the count() function and division in XPath once again to find out the proportion of persons coded female among all the persons coded with @sex attributes.

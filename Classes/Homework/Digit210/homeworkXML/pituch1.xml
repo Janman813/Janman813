@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+    <name>Country Loaf (Pain de Campagne)</name>
+
+    <author>Deb Lindsey for The Washington Post</author>
+
+    <date when="2014-09-10">SEP 10, 2014</date>
+    <note>Washington author Sam Fromartz has been making sourdough variations of this yeast bread
+        for years. Here, he adds fermented cider for flavor. A mild beer may be substituted; an IPA
+        would be too bitter. The loaf is sized to last a few days. The optional tablespoon of water
+        is to compensate for the variable absorption of the rye and whole-wheat flours. You'll need
+        a colander, a pastry cloth or clean dish towel and a covered cast-iron or enameled cast-iron
+        pot. Make Ahead: The dough needs four 20-minute rests, plus an 8-to-24-hour stay in the
+        refrigerator and a final 1 1/2-hour rise. Storage Notes: Store the cooled loaf in a paper
+        bag for a day, and store in a plastic bag for a few days after that. Do not
+        refrigerate.</note>
+
+    <servings> SERVINGS: Tested size: <n type="whole">10</n>-<n type="whole">12</n> servings; makes
+        one <n type="whole">11</n>-ounce loaf <n type="whole">10</n> to <n type="whole">12</n>
+        slices</servings>
+
+    <ingredients>INGREDIENTS <line/><n type="whole">1</n><n type="fraction" dec=".25">1/4</n> cups
+            (<n type="whole">160</n> grams) <ing>white bread flour</ing>, plus more for dusting <n
+            type="fraction" dec=".25">1/4</n> cup (<n type="whole">38</n> grams)
+            <line/><ing>stone-ground whole-wheat flour</ing>
+        <line/><n type="fraction" dec=".25">1/4</n> cup (<n type="whole">32</n> grams)
+            <line/><ing>stone-ground whole rye flour</ing>
+        <line/><n type="whole">1/2</n> teaspoon <ing>instant yeast</ing> or <ing>bread machine
+            yeast</ing>
+        <line/><n type="whole">1</n> teaspoon <ing>table salt</ing>
+        <line/><n type="fraction" dec=".25">1/4</n> cup (<n type="whole">55</n> grams) <line/>
+        <ing>dry fermented cider</ing>
+        <note>(may substitute Pilsener beer; see headnote)</note>
+        <line/><n type="fraction" dec=".5">1/2</n> cup <line/>(<n type="whole">120</n> grams)
+            <ing>lukewarm water</ing> (80 degrees), plus an optional 1 tablespoon</ingredients>
+    <directions>DIRECTIONS <line/><task num="1">Whisk together the flours, yeast and salt in a
+            mixing bowl. Combine the cider and water in a liquid measuring cup.</task>
+        <line/>
+        <task num="2">Add the liquid to the flour mixture; use a spatula or bench scraper or your
+            hand moistened with water to blend them for about a <time/>minute. The dough should be
+            shaggy yet cohesive. Cover the bowl with a towel; let the dough rest for <time><n
+                    type="whole">20</n> minutes</time>.</task>
+        <line/><task num="3">Moisten your kneading hand. If the dough seems stiff, add the optional
+            tablespoon of water. Stretch one edge of the dough (still in the bowl), then press it
+            into the center of the bowl. Repeat this about a dozen times, moving clockwise to catch
+            all sides of the dough. (This should take <time><n type="whole">1</n> or <n type="whole"
+                    >2</n> minutes</time>.)</task>
+        <line/><task num="4">Turn the dough over so the seams are on the bottom. Cover and let rest
+            for <n type="whole">20</n> minutes. Repeat the clockwise stretching and folding two more
+            times, with <time><n type="whole">20</n>-minute</time> rests after each. Cover and
+            refrigerate at least <time><n type="whole">8</n> hours</time> and up to <time><n
+                    type="whole">24</n> hours</time>. The dough should have doubled. If it hasn't,
+            leave it on the counter until it does.</task>
+        <line/>
+        <task num="5">Lightly flour a work surface. Use a pastry cloth or clean dish towel to line a
+            round colander. Dust the cloth with flour.</task>
+        <line/><task num="6">Transfer the dough to the floured work surface. Fold the edges toward
+            the center to create a round shape, turning it over so the seams are on the bottom. Let
+            it rest for <time><n type="whole">5</n> minutes</time>, then transfer to the colander,
+            seam side up. Cover with a towel and let the dough rise for <time><n type="whole">1</n>
+                <n type="fraction" dec=".25">1/2</n> hours</time>.</task>
+        <line/>
+        <task num="7">Thirty minutes before baking, place a cast-iron Dutch oven (lid on) or
+            enameled cast-iron pot with a lid (on) in the oven; preheat to <temp><n type="whole"
+                    >475</n> degrees</temp>.</task>
+        <line/><task num="8">Carefully remove the hot pot from the oven.</task>
+        <line/><task num="9">Turn the dough out onto the counter so the seams are on the bottom. Use
+            kitchen scissors to make <n type="whole">8</n> snips on the top of the dough in an
+            evenly spaced spoke pattern, each about <meas><n type="fraction" dec=".25">1/4</n>-inch</meas>
+            deep. Lift the dough and carefully drop it into the hot pot. Immediately cover with the
+            hot lid. Bake for <time><n type="whole">30</n> minutes</time>, then reduce the heat to
+                    <temp><n type="whole">450</n> degrees</temp>. Uncover and bake for <time><n
+                    type="whole">8</n> to <n type="whole">10</n> minutes</time> or until the crust
+            is dark brown. Try to minimize the amount of time the oven door is open.</task>
+        <line/><task num="10">The bread is done when its internal temperature registers <temp><n
+                    type="whole">205</n> degrees</temp> on an instant-read thermometer and the loaf
+            sounds hollow when knocked on the underside.</task>
+        <line/><task num="11">Transfer the loaf to a wire rack to cool for at least <time><n
+                    type="whole">1</n> hour</time> before cutting.</task></directions>
+</xml>

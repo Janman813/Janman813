@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <info>
+        <dif>Level: Easy</dif>
+        <time>Total: <n type="whole">1</n> hr <n type="whole">15</n> min Prep: <n type="whole"
+                >20</n> min Cook: <n type="whole">55</n> min</time>
+        <serv>Yield: <n type="whole">4</n> servings</serv>
+    </info>
+
+    <ingList>
+        <head>Ingredients</head>
+        <l><amount><n type="whole">4</n> large</amount> baking potatoes (Idaho or russet)</l>
+        <l><amount><n type="whole">12</n> slices</amount> thick-cut applewood smoked bacon</l>
+        <l><measur><n type="fract" dec=".5">1/2</n> cup</measur> all-purpose flour</l>
+        <l><measur><n type="whole">6</n> cups</measur>
+            <n>2</n> percent low-fat milk</l>
+        <l>heated <measur><n type="whole">5</n> ounces</measur> sharp Cheddar</l>
+        <l>grated Kosher salt and freshly ground black pepper</l>
+        <l><measur><n type="whole">4</n> ounces</measur> sour cream</l>
+        <l><measur><n type="whole">3</n> tablespoons</measur> finely chopped fresh chives</l>
+    </ingList>
+
+    <direct>
+        <head>Directions</head>
+        <task num="1">Preheat the <app>oven</app> to <temp><n type="whole">350</n> degrees
+            F</temp>.</task>
+        <task num="2">Place the potatoes on a <tool>roasting tray</tool> and bake for <time><n
+                    type="whole">45</n> minutes</time>. When done, the tip of a <tool>paring
+                knife</tool> should go through the potatoes easily.</task>
+        <task num="3">Slice the bacon into <cut>lardons</cut> (thin strips) and cook in a
+                <tool>large, heavy-bottomed pot</tool> over <temp>medium heat</temp> until crisp.
+            Remove the bacon from the <tool>pot</tool> with a <tool>slotted spoon</tool> and set
+            aside, leaving the drippings in the <tool>pot</tool>.</task>
+        <task num="4">Add the flour to the drippings in the <tool>pot</tool> and stir to combine.
+            Cook, without adding color, until the flour and fat has combined, about <time><n
+                    type="whole">1</n> minute</time>. Pour in the milk while you <tool>whisk</tool>
+            to incorporate. Cook over <temp>medium heat</temp> until bubbly and thickened, stirring
+            frequently, about <time><n type="whole">15</n> minutes.</time></task>
+        <task num="5">Scoop out the potato pulp from the skins and add to the milk mixture. Mash
+            with the back of a <tool>wooden spoon</tool> leaving it a little bit chunky.</task>
+        <task num="6">Add the cooked bacon (leaving a little out for garnishing the soup), <n
+                type="whole">1</n> cup of the cheese, and season well with salt and pepper. Stir
+            until the cheese has melted. Remove from the heat.</task>
+        <task num="7"><tool>Ladle</tool> the soup into <tool>bowls</tool>, drizzle with sour cream
+            (from a squeeze bottle), sprinkle with remaining bacon bits, grated cheese and
+            chives.</task>
+    </direct>
+</xml>

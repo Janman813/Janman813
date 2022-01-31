@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+    <metadata>
+        <source location="LOC"> Library of Congress</source>
+        <Coding>
+            <encoder xml:id="Jep">Janet Pituch</encoder>
+            <date>August 31, 2021</date>
+        </Coding>
+    </metadata>
+    <page n="1">
+        <line>Transcript</line>
+        <line><title><U>"Ballad of Booker T.,"</U></title> by <author>Langston Hughes</author>,
+                <date Year="1941" Month="June" Days="1">June 1, 1941</date></line>
+        <line><U>BALLAD OF BOOKER T.</U></line>
+        <line> by</line>
+        <line>
+            <Author>Langston Hughes</Author>
+        </line>
+        <line n="1"> Booker T.</line>
+        <line n="2"> Was a practical man.</line>
+        <line n="3">He said, Till the soil</line>
+        <line n="4">And learn from the land.</line>
+        <!--<insert design="stamp" lines="20-21-22-23"/>-->
+        <line n="5">Let down your bucket</line>
+        <line n="6">Where you are.</line>
+        <line n="8">And not afar.</line>
+        <line n="9">To help yourself</line>
+        <line n="10">And your fellow man,</line>
+        <line n="11">Train your head,</line>
+        <line n="12">Your heart,<U>and your hand</U>.</line>
+        <line n="13">For smartness alone's</line>
+        <line n="14">Surely not meet—</line>
+        <line n="15">If you haven't at the same time</line>
+        <line n="16">Got something to eat.</line>
+        <line n="17">Thus at <place>Tuskegee</place></line>
+        <line n="18">He <help p="community">built a <place Type="educational"
+            >school</place></help></line>
+        <line n="19">With book-learning there</line>
+        <line n="20">And the workman's tool.</line>
+        <line n="21">He started out</line>
+        <line n="22">In a simple way—</line>
+        <line n="23">For yesterday</line>
+        <line n="24"> Was <U>not</U> today.</line>
+        <line n="25">Sometimes he had</line>
+        <line n="26">Compromise in his talk—</line>
+        <insperation>
+            <line n="27">For a man must <movement>crawl</movement></line>
+            <line n="28">Before he can <movement>walk</movement>—</line>
+        </insperation>
+        <line n="29">And in <place type="State">Alabama</place> in <time year="1985"
+            >'85</time></line>
+        <line n="30">A <fool>joker</fool> was lucky</line>
+        <line n="30">To be alive.</line>
+        <line n="31">But Booker T.</line>
+        <line n="32">Was nobody's fool:</line>
+        <line n="33">You may carve a dream</line>
+        <line n="34">With an humble tool.</line>
+        <line n="35">The tallest tower</line>
+        <line n="36">Can tumble down</line>
+        <line n="37">If it be not rooted</line>
+        <line n="38">In solid ground.</line>
+        <line n="39">So, being a far-seeing</line>
+    </page>
+    <page n="2">
+        <line>Transcript</line>
+        <line n="40">Practical man,</line>
+        <line n="41">He said, <inspiration part="1">Train your head,</inspiration></line>
+        <line n="42">
+            <inspiration part="2">Your heart,<underline>and your hand.</underline></inspiration>
+        </line>
+        <line n="43">
+            <inspiration part="3">Your fate is here</inspiration>
+        </line>
+        <line n="44">And not afar,</line>
+        <line n="45">So let down your bucket</line>
+        <line n="46">Where you are.</line>
+        <!--signature over ending-->
+        <line>LANGSTON HUGHES</line>
+        <line>Final Draft,</line>
+        <line>Hollow Hills Farm,</line>
+        <line><place city="Monterey" State="California">Monterey, California</place>,</line>
+        <line>
+            <dates Year="1941" Month="June" Days="1">June 1, 1941</dates>.</line>
+    </page>
+</XML>

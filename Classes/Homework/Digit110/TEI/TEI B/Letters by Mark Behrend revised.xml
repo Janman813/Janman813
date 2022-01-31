@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../Exercise_4/out/tei_all%20(3).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../Exercise_4/out/tei_all%20(3).rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mary (Molly) Behrends Calendar From 1909</title>
+            <author>MAry (Molly) Behrend</author>
+            <editor>Janet Pituch</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary (Molly) Behrend</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>three leaf clovers, snakes, along with a drawing of hammermill smoking up a
+               storm.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div n="1">
+          <head><date>March 21, 1909</date></head>
+            <p>ST. PATRIC WAS A USEFUL SAINT HE FRIGHTENED ALL THE SNAKES AWAY- I WISH HE'D TRY HIS
+               ART ON SMOKE. AROUND THE HAMMERMILL SOME DAY! </p>
+         </div>
+         <div n="2"><figure>three leaf clovers, snakes, along with a drawing of hammermill smoking up a
+            storm.</figure></div>
+      </body>
+   </text>
+</TEI>

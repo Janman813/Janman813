@@ -1,0 +1,11 @@
+start = root
+root = element Ozymandias {layer}
+layer = element layer { agent, mixed{(lb | ellipsis | layer)*}}
+lb = element lb {n, empty}
+#JEP: using the reserved word empty is a strong signal
+ellipsis = element ellipsis{rend, empty}
+agent = attribute agent {"traveller" | "I" | "sculptor"}
+rend = attribute rend {"..." | "***" | text}
+n = attribute n {xsd:integer}
+
+

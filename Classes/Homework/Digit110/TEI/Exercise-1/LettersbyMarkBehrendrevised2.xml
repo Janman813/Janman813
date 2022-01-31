@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="file:/C:/Users/jpitu/Downloads/out/tei_all%20(2).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="file:/C:/Users/jpitu/Downloads/out/tei_all%20(2).rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mary (Molly) Behrends Calendar From 1909</title>
+            <author>MAry (Molly) Behrend</author>
+            <editor>Janet Pituch</editor>
+         </titleStmt>
+         <publicationStmt>
+            <p>Mary (Molly) Behrend</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div n="1">
+            <head><date>March 17, 1909 Wednesday St. Patricks Day</date></head>
+            <p>ST. PATRIC WAS A USEFUL SAINT HE FRIGHTENED ALL THE SNAKES AWAY- I WISH HE'D TRY HIS
+               ART ON SMOKE. AROUND THE HAMMERMILL SOME DAY! </p>
+            <figure>
+               <figDesc>three leaf clovers, snakes, along with a drawing of hammermill smoking up a
+                  storm.</figDesc>
+            </figure>
+         </div>
+         <div n="2">
+            <head>
+               <date>March 12, 1909 Friday</date>
+            </head>
+            <p> MOLLY ON SNOWSHOES THAT MR.WEIR GOT. PRETTY PICTURE IS IT NOT?!</p>
+            <p>Love from Molly</p>
+            <figure>
+               <figDesc>Mary Behrend walking in snowshoes</figDesc>
+            </figure>
+         </div>
+      </body>
+   </text>
+</TEI>
