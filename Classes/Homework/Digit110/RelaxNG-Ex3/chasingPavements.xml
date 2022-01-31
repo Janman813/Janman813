@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="chasingPavement.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <song>
+        <title>Chasing Pavements</title>
+        <artist type="mezzoSoprano">Song by Adele</artist>
+        <verse n="1" type="start">
+            <line n="1">Ive made up my mind</line>
+            <line n="2">Don't need to think it over</line>
+            <line n="3">If I'm wrong I am right</line>
+            <line n="4">Don't need to look no further</line>
+            <line n="5">This ain't lust</line>
+            <line n="6">I know this is love but</line>
+            <line n="7">If I tell the world</line>
+            <line n="8">I'll never say enough</line>
+            <line n="9">Cause it was not said to you</line>
+            <line n="10">And that's exactly what I need to do</line>
+            <line n="11">If I'm in love with you</line>
+        </verse>
+        <chorus n="1">
+            <line n="12">Should I give up</line>
+            <line n="13">Or should I just keep chasing pavements?</line>
+            <line n="14">Even if it leads nowhere</line>
+            <line n="15">Or would it be a waste?</line>
+            <line n="16">Even If I knew my place should I leave it there?</line>
+            <line n="17">Should I give up</line>
+            <line n="18">Or should I just keep chasing pavements?</line>
+            <line n="19">Even if it leads nowhere</line>
+        </chorus>
+        <verse n="2">
+            <line n="20">I'd build myself up</line>
+            <line n="21">And fly around in circles</line>
+            <line n="22">Waiting as my heart drops</line>
+            <line n="23">And my back begins to tingle</line>
+            <line n="24">Finally could this be it or</line>
+        </verse>
+        <chorus n="2">
+            <line n="25">Should I give up</line>
+            <line n="26">Or should I just keep chasing pavements?</line>
+            <line n="27">Even if it leads nowhere</line>
+            <line n="28">Or would it be a waste?</line>
+            <line n="29">Even if I knew my place should I leave it there?</line>
+        </chorus>
+        <chorus n="4">
+            <line n="30">Should I give up</line>
+            <line n="31">Or should I just keep chasing pavements?</line>
+            <line n="32">Even if it leads nowhere yeah</line>
+            <line n="33">Should I give up</line>
+            <line n="34">Or should I just keep chasing pavements?</line>
+            <line n="35">Even if, it leads nowhere</line>
+            <line n="36">Or would it be a waste?</line>
+            <line n="37">Even if I knew my place should I leave it there?</line>
+        </chorus>
+        <chorus n="5" type="end">
+            <line n="38">Should I give up,</line>
+            <line n="39">Or should I just keep on chasing pavements?</line>
+            <line n="40">Should I just keep on chasing pavements? Or</line>
+            <line n="41">Should I give up</line>
+            <line n="42">Or should I just keep chasing pavements?</line>
+            <line n="43">Even if it leads nowhere</line>
+            <line n="44">Or would it be a waste?</line>
+            <line n="45">Even if I knew my place should I leave it there?</line>
+            <line n="46">Should I give up</line>
+            <line n="47">Or should I just keep chasing pavements?</line>
+            <line n="48">Even if it leads nowhere</line>
+        </chorus>
+    </song>
+</xml>

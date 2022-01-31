@@ -1,0 +1,27 @@
+start = xml
+xml = element xml {source?, \text}
+source = element source {title, altTitle, author, pubPlace, publisher, date, note}
+#source is holding metadata
+\text = element \text {poem+}
+#is holding the main text
+title = element title {level, text}
+level = attribute level {"book" | "inner"}
+altTitle = element altTitle {text}
+author = element author {text}
+pubPlace = element pubPlace {where, text}
+publisher = element publisher {text}
+where = attribute where {"NYC" | text}
+date = element date {when, empty}
+when = attribute when {text}
+note = element note {text}
+poem = element poem {title, lineGroup+, id}
+lineGroup = element lineGroup {line*}
+line = element line {n*, mixed{( motif | emph | placeName | place)*}}
+place = element place {ref*, type*, text}
+n = attribute n {xsd:integer}
+motif = element motif {text}
+emph = element emph {text}
+placeName = element placeName {ref*, text}
+id = attribute id {"harlem" | "goodMorning"}
+ref = attribute ref {text}
+type = attribute type {text}
